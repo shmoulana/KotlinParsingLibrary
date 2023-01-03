@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObjectToTemplate</string>
+    <string name="accessibility_service_description">Hello!</string>
+</resources>
