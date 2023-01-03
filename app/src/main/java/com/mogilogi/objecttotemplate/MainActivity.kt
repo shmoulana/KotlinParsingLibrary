@@ -89,25 +89,6 @@ class MainActivity : AppCompatActivity()
     )
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     private fun applyTemplate(template: String, obj: Any, extraFields: HashMap<String, Any> = HashMap<String, Any>()): String {
         var result = template
         val fields = obj::class.java.declaredFields
